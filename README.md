@@ -1,4 +1,4 @@
-# Terroist-attacks
+# Terrorist-attacks
 >A web app which displays all terrorist attacks and their nature from a database on a map 
 
 ## Screenshots
