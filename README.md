@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/36475626/66067328-f6b61b80-e568-11e9-81cb-0645d14dba47.PNG" alt="alt text">
 
 ## Features 
-* View varius terrorist attacks from across india and nearby countries.
+* View various terrorist attacks from across india and nearby countries.
 * Shows the nature of terrorist attacks when the markers are clicked.
 
 ## Motivation 
