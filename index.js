@@ -24,7 +24,7 @@ var mymap = L.map('mapid').setView([payload[0].latitude, payload[0].longitude], 
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
     maxZoom: 18,
     id: 'mapbox.streets',
-    accessToken: 'pk.eyJ1IjoiZW1wcm9ycGVuZyIsImEiOiJjamg0ZWZlbnEwY20wMndvM2ZlMGNnbzBnIn0.RDlM-MM1wriuILNcprRSEg'
+    accessToken: ''//Access token here
 }).addTo(mymap);
 	
 	for(var i=0;i<300;i++){
